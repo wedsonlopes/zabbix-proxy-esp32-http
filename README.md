@@ -5,6 +5,7 @@ Requirements pre-installed:
 
 - Zabbix Server 
 - Zabbix Proxy
+- ESP32
 
 * **How to configure nginx in zabbix proxy?**
 ```
